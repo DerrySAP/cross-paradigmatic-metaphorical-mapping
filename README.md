@@ -1,6 +1,6 @@
 # Cross-Paradigmatic Metaphorical Mapping: Indonesian MAJU vs MUNDUR
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DerrySAP/cross-paradigmatic-metaphorical-mapping/blob/main/dsaputra_meaning_preserving_script.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DerrySAP/cross-paradigmatic-metaphorical-mapping/blob/main/cross_paradigmatic_metaphorical_mapping_script.ipynb)
 
 This repository contains the open-access dataset and reproducible R scripts used for the quantitative corpus analysis in the paper: **"Cross-paradigmatic Metaphorical Mapping: A case of Indonesian MAJU vs MUNDUR"** (Putra, 2026). 
 

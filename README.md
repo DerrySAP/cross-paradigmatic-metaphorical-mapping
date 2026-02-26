@@ -9,7 +9,7 @@ The study operates within a usage-based Construction Grammar framework to empiri
 ## Repository Contents
 
 * `cross-paradigmatic-metaphorical-mapping_data.csv`: The dataset containing 810 tokens of the target applicative verbs (*memajukan*, *dimajukan*, *memundurkan*, *dimundurkan*) extracted from the `ind_news_2024_1M` corpus. It includes the manual semantic domain coding (e.g., 'quality', 'time', 'political nomination') and grammatical voice classifications.
-* `dsaputra_meaning_preserving_script.ipynb`: A Jupyter Notebook (R kernel) containing the exact statistical analysis. It includes the exact regular expression parameters used for data retrieval (via the `corplingr` package) and the code for the Pearson's chi-square tests used to evaluate semantic specialization.
+*  `dsaputra_meaning_preserving_script.ipynb`: A Jupyter Notebook (R kernel) containing the exact statistical analysis. It includes the exact regular expression parameters used for data retrieval via the [`corplingr`](https://github.com/gederajeg/corplingr) package (developed by Gede Primahadi Wijaya Rajeg) and the code for the Pearson's chi-square tests used to evaluate semantic specialization.
 
 ## Reproducibility
 
